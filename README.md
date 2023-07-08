@@ -1,12 +1,8 @@
-<p align="center">
-|-----------------------------------------------------|  
-</p>
-<p align="center">
-| Entire assignment is repost from my other profile |
-</p>
-<p align="center">
-|-----------------------------------------------------|  
-</p>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # WEBTE2 1. Assignment SS 2022/2023
 
