@@ -1,26 +1,9 @@
-
-<center>
-
-| Entire assignment is repost from my other profile|
-| ------------- |
-
-</center>
-
 <table align="center">
   <tr>
-    <th>Header 1</th>
+    <th>Entire assignment is repost from my other profile</th>
     <th>Header 2</th>
   </tr>
-  <tr>
-    <td>Data 1</td>
-    <td>Data 2</td>
-  </tr>
-  <!-- Add more rows as needed -->
 </table>
-
-
-
-
 
 # WEBTE2 1. Assignment SS 2022/2023
 
