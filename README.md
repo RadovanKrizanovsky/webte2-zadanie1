@@ -1,10 +1,10 @@
 
-<p align="center">
+<center>
 
 | Entire assignment is repost from my other profile|
 | ------------- |
 
-</p>
+</center>
 
 
 
