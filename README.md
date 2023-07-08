@@ -1,9 +1,11 @@
+
+
 <table align="center">
   <tr>
     <th>Entire assignment is repost from my other profile</th>
-    <th>Header 2</th>
   </tr>
 </table>
+
 
 # WEBTE2 1. Assignment SS 2022/2023
 
